@@ -6,7 +6,7 @@ A Disciplina tem o objetivo de apresentar a linguagem Python para aplicação em
 
 | Data    | Conteúdo                        | Material  |
 |---------|---------------------------------|-----------|
-| 27.06   | Aula Demonstração               |           |
+| 27.06   | Aula Demonstração               | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NwBQfbmlEXcJeGOWnA9f_eNMTQkuK_Ry) |
 | 04.07   | Variáveis, Listas e Dicionários |           |
 
 ## Atendimento
